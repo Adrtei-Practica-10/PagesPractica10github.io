@@ -1,4 +1,4 @@
-# **Currículum Vitae de Harry Potter** :sparkles:
+# **Currículum Vitae de Adrian Peiro** :sparkles:
 
 ## **Información Personal** :mag_right:
 - **Nombre:** Adrian Peiro
